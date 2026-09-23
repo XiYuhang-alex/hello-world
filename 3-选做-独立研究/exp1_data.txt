@@ -1,0 +1,6 @@
+=== mirror experiment v3 (serialized) ===
+setup done: exit_add=0
+Run A (mirror fresh) | url=https://pub.flutter-io.cn | seconds=151.5 | exit=0 | tail=Try `flutter pub outdated` for more information.
+Run B (official direct) | url=https://pub.dev | seconds=13.1 | exit=0 | tail=Try `flutter pub outdated` for more information.
+Run C (mirror fresh again) | url=https://pub.flutter-io.cn | seconds=276.9 | exit=0 | tail=Try `flutter pub outdated` for more information.
+=== end v3 ===
