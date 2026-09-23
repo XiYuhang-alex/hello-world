@@ -1,0 +1,8 @@
+=== desktop vs emulator performance experiment ===
+Run M1 (emulator warm rebuild+launch) | seconds=18.2 | ready=True
+Run W1 (windows cold build+launch) | seconds=68.5 | ready=True
+windows app process memory | workingset=393.4 MB | private=380.4 MB
+windows exe size | 1 MB
+ready for screenshot
+Run W2 (windows warm rebuild+launch) | seconds=22.2 | ready=True
+=== end exp3 ===
