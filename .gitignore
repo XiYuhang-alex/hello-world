@@ -1,0 +1,7 @@
+# Agent workspace tools (not part of coursework)
+_tools/
+.venv/
+
+# OS
+Thumbs.db
+.DS_Store
